@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Libre-Franklin-Regular';
+    src: url('../fonts/LibreFranklin-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libre-Franklin-Bold';
+    src: url('../fonts/LibreFranklin-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libre-Franklin-SemiBold';
+    src: url('../fonts/LibreFranklin-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
