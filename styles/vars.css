@@ -1,0 +1,11 @@
+:root {
+    --libre-franklin: 'Libre-Franklin-Regular';
+    --libre-franklin-bold: 'Libre-Franklin-Bold';
+    --libre-franklin-semi-bold: 'Libre-Franklin-SemiBold';
+    /* colors */
+    --white: #FFFAF2;
+    --cream: #F5D6AB;
+    --bronze: #C66C49;
+    --red: #8B4136;
+    --black: #333333;
+}
