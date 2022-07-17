@@ -1,0 +1,10 @@
+.about__description {
+    margin-top: 76px;
+    max-width: 1107px;
+    font-size: 18px;
+    line-height: 30px;
+}
+.about__description--paragraph {
+    display: block;
+    margin-top: 52px;
+}
